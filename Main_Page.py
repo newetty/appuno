@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import pandas.io.sql as sqlio
 #import psycopg2
-#import settings
+import settings
 #from create_database import clean_dataset
 
 st.markdown("# Main page")
